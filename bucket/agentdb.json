@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Single-file embedded database for AI agents \u2014 SQL + Vector Search + FTS + Graphs",
   "homepage": "https://github.com/hvrcharon1/agentdb",
   "license": "Unlicense",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/hvrcharon1/agentdb/releases/download/v0.4.0/agentdb-x86_64-pc-windows-msvc.zip",
-      "hash": "bb85b0fb654e2a008399bdf997205e24c630bfd2dcd0b1ea02928fcf9b2f2350"
+      "url": "https://github.com/hvrcharon1/agentdb/releases/download/v0.4.1/agentdb-x86_64-pc-windows-msvc.zip",
+      "hash": "f430d832a6ab0e0209ccbbec21e067aed3f5266caeaae791b60ba3308c57c7a0"
     }
   },
   "bin": "agentdb.exe",
