@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/hvrcharon1/agentdb/releases/download/v0.5.3/agentdb-x86_64-pc-windows-msvc.zip",
-      "hash": "ec957d799acee754f50c4e8f15846ee61b9a325c98ac1d0a1539aa0f80842f33"
+      "hash": "aaef70172a5b81f4951d1866a3107bda440fdbfc8424bcbb4d97b48b6cbd64c5"
     }
   },
   "bin": "agentdb.exe",
